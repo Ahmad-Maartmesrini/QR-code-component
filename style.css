@@ -33,12 +33,24 @@ body {
 }
 
 .text {
-  padding: 20px 10px;
+  padding: 15px 5px;
 }
-.text h2 {
+.text h3 {
   color: hsl(218, 44%, 22%);
   padding-bottom: 15px;
 }
 .text p {
-  color: hsl(218, 21%, 30%);
+  color: hsl(217, 9%, 48%);
+  font-size: 13px;
+  font-weight: lighter;
+}
+
+.attribution {
+  font-size: 10px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  text-decoration: none;
 }
